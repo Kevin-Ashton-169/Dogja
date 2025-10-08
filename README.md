@@ -17,13 +17,18 @@ What features does it currently have? and what features are being proposed for t
 Currently Dogja allows you to read manhwa, although you can put anything in, however it will be presented the same way as manhwa, you can scroll by clicking and dragging or scroll with your mouse wheel, it also as support for icon for each series 
 and other small customizable things.
 
-Some of the features that is want to put in Dogja but are currently absent are:
+Some of the features that I want to add to Dogja, but are currently absent, include:
 
--Proper Manga and Western Comics Support
--Installer
--An easy in-software way add new series and chapters
--Android support
--Support for more file extenxions
--More user customization
+  Proper Manga and Western Comics support
 
-Note: some or all of the features listed above may come partially or not at all while other feature that aren't listed may come in the future.
+  Installer
+
+  An easy in-software way to add new series and chapters
+
+  Android support
+
+  Support for more file extensions
+
+  More user customization options
+
+Note: Some or all of the features listed above may be implemented only partially or not at all. Other features not listed here may also be added in the future.
