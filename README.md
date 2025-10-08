@@ -19,16 +19,16 @@ and other small customizable things.
 
 Some of the features that I want to add to Dogja, but are currently absent, include:
 
-  Proper Manga and Western Comics support
+  -Proper Manga and Western Comics support
 
-  Installer
+  -Installer
 
-  An easy in-software way to add new series and chapters
+  -An easy in-software way to add new series and chapters
 
-  Android support
+  -Android support
 
-  Support for more file extensions
+  -Support for more file extensions
 
-  More user customization options
+  -More user customization options
 
 Note: Some or all of the features listed above may be implemented only partially or not at all. Other features not listed here may also be added in the future.
