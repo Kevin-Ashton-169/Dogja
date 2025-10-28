@@ -1,9 +1,0 @@
-[gd_scene load_steps=3 format=3 uid="uid://b5pmlnsikp38j"]
-
-[ext_resource type="Script" path="res://assets/scripts/manhwa_menu.gd" id="1_nrlm3"]
-[ext_resource type="PackedScene" uid="uid://cw205yhi10vad" path="res://assets/scenes/camera.tscn" id="2_xwdc5"]
-
-[node name="Manhwa_Menu" type="Node2D"]
-script = ExtResource("1_nrlm3")
-
-[node name="Camera" parent="." instance=ExtResource("2_xwdc5")]
